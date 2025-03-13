@@ -24,3 +24,14 @@
 
 // Custom styles:
 
+nav a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-image: url("../img/pirate-ship.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
