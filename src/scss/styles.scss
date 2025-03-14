@@ -17,6 +17,7 @@
 // $link-hover-color: grey;
 // $font-family-sans-serif: "Helvetica Neue";
 
+
 // Import Bootstrap styles:
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
@@ -33,5 +34,15 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+
+    h1 {
+        font-family: "Pirata One", system-ui;
+        //text-decoration: underline;  
+    }
 }
+
+
+
+
+
 
